@@ -49,7 +49,7 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 /*
  * =============================================
- * WebView 前端展示功能（可选）
+ * WebView 前端展示功能（这个功能是可选功能）
  * 以下方法为接入 SDK 的 WebView 展示控制接口
  * 如不需要展示 WebView，到此 SDK 接入即完成
  * =============================================
